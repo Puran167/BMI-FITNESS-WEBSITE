@@ -13,5 +13,3 @@ assess their weight status independently and take appropriate actions to maintai
 
 <h4>
 The BMI calculator leverages the capabilities of HTML, CSS, and JavaScript technologies to deliver a seamless user experience. HTML is used to structure the web page, define the layout of the calculator elements, and facilitate the input of height and weight data. CSS is employed to enhance the visual presentation of the calculator, ensuring a visually appealing and intuitive interface. JavaScript adds functionality to the calculator by handling user input, performing real-time calculations, and dynamically updating the results, providing users with instant feedback.</h4>
-
-<img src="./images/dumble.png" alt=""></a>
